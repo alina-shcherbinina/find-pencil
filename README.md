@@ -1,24 +1,25 @@
-1 pencils: 0
-
-2 pencils: 1
-
-3 pencils: 1
-
-4 pencils: 2
-
-5 pencils: 2
-
-6 pencils: 3
-
-7 pencils: 3
-
-8 pencils: 1
-
-9 pencils: 2
-
-10 pencils: 2
-
-11 pencils: 3
-
-12 pencils: 1
-
+img (1).jpg
+pencils: 0
+img (2).jpg
+pencils: 1
+img (3).jpg
+pencils: 1
+img (4).jpg
+pencils: 2
+img (5).jpg
+pencils: 2
+img (6).jpg
+pencils: 3
+img (7).jpg
+pencils: 3
+img (8).jpg
+pencils: 1
+img (9).jpg
+pencils: 2
+img (10).jpg
+pencils: 2
+img (11).jpg
+pencils: 3
+img (12).jpg
+pencils: 1
+all pencils in every picture 21
